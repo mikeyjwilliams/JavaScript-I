@@ -87,22 +87,14 @@ console.log(antonietta.multiplyNums(3, 4));
 const parent = {
   name: "Susan",
   age: 70,
-  speak: function () {
-    return 'Hello I am the parent';
-  },
   child: {
     name: "George",
     age: 50,
-    speak: function () {
-      return 'I am the child';
-    },
-    grandchild: {
-      name: "Sam",
-      age: 30,
-      speak: function () {
-        return 'Grandchild here';
-      },
-    }
+
+  },
+  grandchild: {
+    name: "Sam",
+    age: 30,
   }
 }
 
