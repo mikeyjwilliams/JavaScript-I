@@ -3,7 +3,7 @@
 // let myFunction = function () {
 // console.log("Function was invoked!");
 // };
-let myFunction = () => {
+const myFunction = () => {
     console.log("Function was invoked!")
 }
 //myFunction();
