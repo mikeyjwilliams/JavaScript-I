@@ -53,7 +53,7 @@ const antonietta = {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
-
+console.log(mitzi.name);
 // Kennan's ID
 
 // Keven's email
