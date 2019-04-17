@@ -57,7 +57,7 @@ console.log(mitzi.name);
 // Kennan's ID
 console.log(keven.id);
 // Keven's email
-
+console.log(keven.email);
 // Gannie's name
 
 // Antonietta's Gender
