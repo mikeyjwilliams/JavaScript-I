@@ -59,7 +59,7 @@ console.log(keven.id);
 // Keven's email
 console.log(keven.email);
 // Gannie's name
-
+console.log(gannie.name);
 // Antonietta's Gender
 
 // ==== Challenge 3: Object Methods ==== 
